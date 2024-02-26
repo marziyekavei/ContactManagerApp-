@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ContactManagerApp-/static/css/main.7fd824aa.css",
-    "main.js": "/ContactManagerApp-/static/js/main.4916b602.js",
-    "static/media/Spinner.gif": "/ContactManagerApp-/static/media/Spinner.5b35cef0ce49e2af8525.gif",
-    "static/media/no-found.gif": "/ContactManagerApp-/static/media/no-found.8a3fe9fd54d21c85d260.gif",
-    "static/media/man-taking-note.png": "/ContactManagerApp-/static/media/man-taking-note.578e1679689f39584d15.png",
-    "index.html": "/ContactManagerApp-/index.html",
-    "main.7fd824aa.css.map": "/ContactManagerApp-/static/css/main.7fd824aa.css.map",
-    "main.4916b602.js.map": "/ContactManagerApp-/static/js/main.4916b602.js.map"
+    "main.css": "/ContactMa%20nagerApp-/static/css/main.7fd824aa.css",
+    "main.js": "/ContactMa%20nagerApp-/static/js/main.d781d2d9.js",
+    "static/media/Spinner.gif": "/ContactMa%20nagerApp-/static/media/Spinner.5b35cef0ce49e2af8525.gif",
+    "static/media/no-found.gif": "/ContactMa%20nagerApp-/static/media/no-found.8a3fe9fd54d21c85d260.gif",
+    "static/media/man-taking-note.png": "/ContactMa%20nagerApp-/static/media/man-taking-note.578e1679689f39584d15.png",
+    "index.html": "/ContactMa%20nagerApp-/index.html",
+    "main.7fd824aa.css.map": "/ContactMa%20nagerApp-/static/css/main.7fd824aa.css.map",
+    "main.d781d2d9.js.map": "/ContactMa%20nagerApp-/static/js/main.d781d2d9.js.map"
   },
   "entrypoints": [
     "static/css/main.7fd824aa.css",
-    "static/js/main.4916b602.js"
+    "static/js/main.d781d2d9.js"
   ]
 }
