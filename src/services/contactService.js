@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const SERVER_URL = "https://contactmanagerserver.vercel.app";
+const SERVER_URL = "https://contactsapi.ghorbany.dev";
 
 //@dec get all contact 
 //@route GET http://localhost:9000/contacts
