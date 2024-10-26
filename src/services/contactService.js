@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const SERVER_URL = "https://contactsapi.ghorbany.dev";
+const SERVER_URL = "http://localhost:9000";
 
 //@dec get all contact 
 //@route GET http://localhost:9000/contacts
