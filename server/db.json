@@ -54,6 +54,15 @@
       "job": "معمار",
       "group": "5",
       "id": 6
+    },
+    {
+      "fullName": "فریناز احمدی",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLa5voVvHaJAzZkeQ2SOEE-juVz1dYhY1EDg&usqp=CAU",
+      "mobile": 9187763356,
+      "email": "feriferi@gmail.com",
+      "job": "آرایشگر",
+      "group": "2",
+      "id": 7
     }
   ],
   "groups": [
